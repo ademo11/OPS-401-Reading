@@ -1,3 +1,3 @@
 # OPS-401-Reading-Note.md
 
-# It all all Reading 401 Wiki
+# This is where all Reading 401 Wiki
